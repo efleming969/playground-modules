@@ -1,0 +1,15 @@
+{
+    "name": "@playground-modules/bar",
+    "version": "1.0.0",
+    "type": "commonjs",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@playground-modules/common": "workspace:*"
+    },
+    "devDependencies": {
+        "@types/node": "22.7.9"
+    }
+}

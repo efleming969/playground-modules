@@ -1,0 +1,12 @@
+{
+  "name": "playground-modules",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "typescript": "5.6.x"
+  }
+}

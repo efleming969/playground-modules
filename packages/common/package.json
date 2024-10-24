@@ -1,0 +1,10 @@
+{
+    "name": "@playground-modules/common",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "main": "src/index.ts"
+}
